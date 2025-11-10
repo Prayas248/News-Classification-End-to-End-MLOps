@@ -232,7 +232,7 @@ curl -X POST "http://localhost:7860/predict"   -H "Content-Type: application/jso
 
 MIT License
 
-Copyright (c) 2025 Prakhar Agrawal
+Copyright (c) 2025 Prayas Yadav
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
